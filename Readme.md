@@ -2,7 +2,7 @@
 
 ## 1. Setup virtual ports using tty0tty
 
-https://github.com/lcgamboa/tty0tty
+Use the steps mentioned in (tty0tty readme)[https://github.com/lcgamboa/tty0tty] and setup tty0tty
 This would open up virtual ports
 
 ```
